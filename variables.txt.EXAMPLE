@@ -1,5 +1,6 @@
 (
     ["SERVER_PORT"]=""
+    ["PROXY_FORWARDING_SECRET"]=""
     ["SERVER_NAME"]=""
     ["DB_HOST"]=""
     ["DB_USER"]=""
