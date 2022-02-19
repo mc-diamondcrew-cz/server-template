@@ -6,8 +6,24 @@
 /server.jar
 /git.sh
 
+# Spigot
+/cache/
+/libraries/
+/eula.txt
+/versions/
+/world/
+/world_nether/
+/world_the_end/
+/banned-ips.json
+/banned-players.json
+/help.yml
+/ops.json
+/usercache.json
+/version_history.json
+/whitelist.json
+
 # Logs
-/logs/*
+/logs/
 /*.log
 
 # Plugins
