@@ -1,6 +1,6 @@
 # DCMC Open-Source Project
 ## server-template
-DiamondCrew Minecraft Network server template for versioned minecraft servers.
+DiamondCrew Minecraft Network server template for versioned minecraft [Purpur](https://purpurmc.org/) servers.
 
 ## Links
 - DCMC Website - https://mc.diamondcrew.cz

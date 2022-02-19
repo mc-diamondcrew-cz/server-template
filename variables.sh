@@ -6,7 +6,7 @@ declare -A VARIABLES="$file"
 # File extensions: .yml, .toml
 replaceAll() {
   echo "Replacing $1 with $2."
-  grep -irl --include=\*.yml --include=\*.toml "$1" ./ | xargs sed -i "s/$1/$2/"
+  grep -irl --include=\*.yml --include=\*.toml --include=\*.properties "$1" ./ | xargs sed -i "s/$1/$2/"
 }
 
 type="$1"
